@@ -1,0 +1,75 @@
+.heroContainer{
+    position: relative;
+    min-height: 36rem;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+.stickyImg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.heroContent{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    min-height: inherit; 
+    justify-content: center;
+}
+
+.heroHeader{
+    /* font-size: 1.25rem;
+    line-height: 1.75rem;      */
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.heroByeline{
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.heroSearchbar{
+    width: 100%;
+    max-width: 45rem;
+    margin-bottom: 1rem;
+    background-color: #fff;
+    border-radius: 20px;
+    height: 70px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1rem;
+}
+
+.heroSearchInput{
+    width: 70%;
+    height: 2rem;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #4B5563;
+    background-color: transparent;
+}
+
+.heroSearchButton{
+    width: 20%;
+    height: 3rem;
+    border: none;
+    outline: none;
+    background-color: #2e8555;
+    cursor: pointer;
+    color: #ffffff; 
+    border-radius: 10px;
+}
