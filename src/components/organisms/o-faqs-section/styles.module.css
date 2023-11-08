@@ -1,0 +1,50 @@
+.faqs__section {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem 15rem 20rem;
+  }
+  
+  .first__content {
+    width: 35%;
+  }
+
+  .content__button{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    gap: 16px;
+  }
+  
+  .second__content {
+    width: 65%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+  }
+  
+  .second__content__column__1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .second__content__column__2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+  }
+  
+  .team__image{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
