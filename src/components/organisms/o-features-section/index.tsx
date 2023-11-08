@@ -31,8 +31,8 @@ const featureItemsList: FeatureCardProps[] = [
 function FeaturesSection() {
   return (
     <section className={styles.featuresList}>
-      {featureItemsList.map((featureItem) => (
-        <FeatureCard {...featureItem} />
+      {featureItemsList.map((featureItem, index) => (
+        <FeatureCard key={index} {...featureItem} />
       ))}
     </section>
   );

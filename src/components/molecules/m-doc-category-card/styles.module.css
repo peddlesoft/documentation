@@ -9,7 +9,7 @@
   background: var(--gray-00, #fff);
   width: 17.5rem;
   min-height: 15.8rem;
-  border: #0d9589 1px solid;
+  /* border: #0d9589 1px solid; */
   margin-bottom: 2rem;
 }
 

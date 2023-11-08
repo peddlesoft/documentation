@@ -5,6 +5,7 @@ import Layout from "@theme/Layout";
 import HeroSection from "@site/src/components/organisms/o-hero-section";
 import FeaturesSection from "../components/organisms/o-features-section";
 import DocsCategoriesSection from "../components/organisms/o-docs-categories";
+import FAQsSection from "../components/organisms/o-faqs-section";
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
@@ -16,6 +17,7 @@ export default function Home(): JSX.Element {
       <HeroSection />
       <FeaturesSection />
       <DocsCategoriesSection />
+      <FAQsSection />
     </Layout>
   );
 }
