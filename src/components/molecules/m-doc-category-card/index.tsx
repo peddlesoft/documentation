@@ -15,7 +15,7 @@ function DocCategoryCard({title, description, image}: DocCategoryCardProps) {
       </div>
       <h3>{title}</h3>
       <p>{description}</p>
-      <span className={styles.card__cta}>Learn More</span>
+      {/* <span className={styles.card__cta}>Learn More</span> */}
     </div>
   );
 }

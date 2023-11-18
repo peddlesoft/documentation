@@ -7,21 +7,21 @@ import FeatureImg3 from "@site/static/img/png/feature-2.png";
 
 const featureItemsList: FeatureCardProps[] = [
   {
-    title: "Knowledge Base",
+    title: "Effortless Financial Management",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "Master Peddlesoft's automated payment system for a hassle-free approach to financial management. Streamline collections and recordings, making auditing a breeze",
     image: FeatureImg1,
   },
   {
-    title: "Contact Us",
+    title: "Event Excellence Simplified",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "From planning to post-production, delve into the world of event brilliance. Automate registrations, ticketing, and analytics with Peddlesoft's comprehensive conference management.",
     image: FeatureImg2,
   },
   {
-    title: "Community Forum",
+    title: "Unified Membership Solutions",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "Simplify member interactions with Peddlesoft. From profile creation to fee payments, our platform brings harmony to membership management, ensuring a seamless experience for all.",
     image: FeatureImg3,
   },
 ];

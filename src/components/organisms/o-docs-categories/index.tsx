@@ -10,30 +10,30 @@ import DocCategoryIcon4 from "@site/static/img/png/doc-category-icon-4.png";
 
 const categoriesItemsList1: DocCategoryCardProps[] = [
   {
-    title: "Members Database",
+    title: "Dynamic Content Showcase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, voluptas.",
+    "Unleash the potential of Peddlesoft's CMS, empowering organizations to effortlessly create, modify, and organize website content. Showcase events, engage members, and promote information dynamically with external web pages and intuitive content management.",
     image: DocCategoryIcon1,
   },
   {
-    title: "Landing Pages",
+    title: "Securing Elections Digitally",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, voluptas.",
+    "Uncover the power of Peddlesoft's E-Voting System. This guide provides insights into securely conducting group votes and elections, utilizing advanced software for a robust and trusted digital voting experience.",
     image: DocCategoryIcon2,
   },
 ];
 
 const categoriesItemsList2: DocCategoryCardProps[] = [
   {
-    title: "End-User Dashboard",
+    title: "Impactful Training Delivery",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, voluptas.",
+      "Discover Peddlesoft's TMS, seamlessly integrating LMS for effective online training programs. Streamline course creation, enrollment, communication, and assessment to deliver engaging and impactful training experiences for your members.",
     image: DocCategoryIcon3,
   },
   {
-    title: "Admin Dashboard",
+    title: "Navigating Automated Payments",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, voluptas.",
+    "Embark on a journey to master Peddlesoft's Automated Payment System. Learn the art of handling financial transactions seamlessly, streamlining collections, and maintaining meticulous payment records.",
     image: DocCategoryIcon4,
   },
 ];
@@ -44,10 +44,7 @@ function DocsCategoriesSection() {
       <div className={styles.first__content}>
         <h1>Documentation Categories</h1>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque,
-          ratione. Beatae iste laudantium id. Ex quam, perspiciatis iure
-          molestiae nam consequatur eos sapiente esse voluptatibus, velit eaque
-          aspernatur rem molestias!
+        Navigate Your Peddlesoft Journey: Explore In-Depth Guides Across Key Categories!
         </p>
         <a href="docs/intro" className="button button--primary"> View </a>
       </div>

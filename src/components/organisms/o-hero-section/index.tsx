@@ -13,13 +13,18 @@ function HeroSection() {
         alt="bg-image"
       />
       <div className={styles.heroContent}>
-        <h1 className={styles.heroHeader}>Support and Documentation</h1>
+        <h1 className={styles.heroHeader}>
+          Unlocking Possibilities: Your Guide to Peddlesoft Mastery
+        </h1>
         <p className={styles.heroByeline}>
-          A premium database with integrated system.
+          Explore step-by-step guides and harness the full potential of
+          Peddlesoft's versatile features for streamlined payments, event
+          management, training, voting, and membership — Your comprehensive
+          resource for seamless navigation and empowerment.
         </p>
         <div className={styles.heroSearchbar}>
           <input
-          placeholder="Ask a Question or Enter a Key Work"
+            placeholder="Ask a Question"
             className={styles.heroSearchInput}
             type="text"
             name="search"
