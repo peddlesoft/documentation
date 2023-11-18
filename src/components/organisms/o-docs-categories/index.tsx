@@ -46,7 +46,7 @@ function DocsCategoriesSection() {
         <p>
         Navigate Your Peddlesoft Journey: Explore In-Depth Guides Across Key Categories!
         </p>
-        <a href="docs/intro" className="button button--primary"> View </a>
+        <a href="docs/intro" className="button button--primary"> Explore Documentation </a>
       </div>
       <div className={styles.second__content}>
         <div className={styles.second__content__column__1}>

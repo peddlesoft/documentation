@@ -2,7 +2,7 @@
 sidebar_position: 3
 description: "This website contains how to guides on how to carry out several processes in the **Admin section** on your Website application."
 tags:
-    - Publication
+    - Executive
     - Delete
 
 ---
@@ -13,7 +13,7 @@ tags:
 
 **Actor:** Content Admin/ Public Relations Officer/Super Admin:
 
-Sometimes, you may need to remove outdated or irrelevant publications from your organization's website. This guide will take you through the steps to delete a publication using the Peddlesoft admin application.
+Sometimes, you may need to remove outdated or irrelevant information about executives from your organization's website. This guide will take you through the steps to delete an executive using the Peddlesoft admin.
 
 
 ## How to delete a publication
@@ -24,30 +24,30 @@ Sometimes, you may need to remove outdated or irrelevant publications from your 
 
 3. Click on the **Contents** menu item to reveal the sub-menu items.
 
-    ![Contents menu item](./assets/image-1.png)
+    ![Contents menu item](./assets/image-20.png)
 
-4. Locate the **publication** you want to delete
+4. Locate the **executive** you want to delete
 
 
-    ![publications list](./assets/image-12.png)
+    ![publications list](./assets/image-21.png)
 
 5. Click on the three vertical dots icon to select and click the **Delete** option. 
 
-    ![reveal publication item sub-menu](./assets/image-10.png)
+    ![reveal publication item sub-menu](./assets/image-22.png)
 
 
 6. You will be asked to confirm your action.
 
-    ![publication update success](./assets/image-14.png)
+    ![publication update success](./assets/image-23.png)
 
     :::info
 
-    Click the **Yes, Delete it** button to confirm your action to delete the selected publication.
+    Click the **Yes, Delete it** button to confirm your action to delete the selected executive.
 
     :::
 
     :::tip
 
-    **Congratulations!** You’ve deleted a publication
+    **Congratulations!** You’ve deleted an executive.
 
     :::
